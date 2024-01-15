@@ -1,0 +1,6 @@
+[submodule "src/esp_ros2_package_template/project/components/microros"]
+	path = src/esp_ros2_package_template/project/components/microros
+	url = https://github.com/micro-ROS/micro_ros_espidf_component.git
+[submodule "src/ros2_ws/src/esp_camera/esp_camera/components/esp32-camera"]
+	path = src/ros2_ws/src/esp_camera/esp_camera/components/esp32-camera
+	url = https://github.com/espressif/esp32-camera.git
